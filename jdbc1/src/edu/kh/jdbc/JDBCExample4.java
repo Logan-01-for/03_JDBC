@@ -10,7 +10,7 @@ public class JDBCExample4 {
 
 	public static void main(String[] args) {
 		
-		// 부서명을 입력 ㅂ다아
+		// 부서명을 입력 받아
 		// 해당 부서에 근무하는 사원의
 		// 사번, 이름, 부서명, 직급명을
 		// 직급 코드 오름차순으로 조회
