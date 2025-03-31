@@ -28,7 +28,7 @@ public class UserDAO {
 	private ResultSet rs = null;
 	
 	// 메서드
-	/** 전달 받은 Connection을 이용새허 DB에 접근하여
+	/** 전달 받은 Connection을 이용해서 DB에 접근하여
 	 * 전달 받은 아이디 (input)와 일치하는 User 정보를 DB 조회하기
 	 * @param conn : Service에서 생성한 Connection 객체
 	 * @param input : View에서 입력 받은 아이디
